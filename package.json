@@ -1,0 +1,18 @@
+{
+  "name": "expressjs-with-nodejs",
+  "version": "1.0.0",
+  "description": "Express with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RESTAPI"
+  ],
+  "author": "Edward Adelasoye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
